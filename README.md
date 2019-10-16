@@ -7,13 +7,16 @@ Iowa, New Hampshire, and South Carolina Democratic Primary Poll Conducted in Oct
 
 <a href="https://github.com/optimus-forecasting-and-polling/Firehouse-0ptimus-Dem-Primary-October-2019/blob/master/Toplines_IA_October2019.pdf">IA Toplines</a>
 
-
+<a href="https://github.com/optimus-forecasting-and-polling/Firehouse-0ptimus-Dem-Primary-October-2019/blob/master/Crosstabs_IA_October2019.pdf">IA Crosstabs</a>
 
 <a href="https://github.com/optimus-forecasting-and-polling/Firehouse-0ptimus-Dem-Primary-October-2019/blob/master/Toplines_NH_October2019.pdf">NH Toplines</a>
 
+<a href="https://github.com/optimus-forecasting-and-polling/Firehouse-0ptimus-Dem-Primary-October-2019/blob/master/Crosstabs_NH_October2019.pdf">NH Crosstabs</a>
 
 
 <a href="https://github.com/optimus-forecasting-and-polling/Firehouse-0ptimus-Dem-Primary-October-2019/blob/master/Toplines_SC_October2019.pdf">SC Toplines</a>
+
+<a href="https://github.com/optimus-forecasting-and-polling/Firehouse-0ptimus-Dem-Primary-October-2019/blob/master/Crosstabs_SC_October2019.pdf">SC Crosstabs</a>
 
 
 
